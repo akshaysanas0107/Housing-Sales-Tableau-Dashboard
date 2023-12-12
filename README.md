@@ -1,6 +1,7 @@
 # Tableau-Dashboard
 Tableau Project that aims to create a Dashboard for Housing Dataset
 Live Dashboard link : https://public.tableau.com/app/profile/akshay.sanas/viz/KingCountyHouseSalesDashboard_17002437070200/KingCountyHouseSales
+
 **King County House Sales Dashboard**
 
 This Tableau dashboard provides insights into the King County house sales market. The dashboard includes the following components:
